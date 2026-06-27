@@ -1,16 +1,41 @@
-# flutter_cli
+<div align="center">
 
-A new Flutter project.
+# 🍔 UniBite
 
-## Getting Started
+### تطبيق طلب الطعام الجامعي
 
-This project is a starting point for a Flutter application.
+[![Flutter](https://img.shields.io/badge/Flutter-3-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## عن التطبيق
+
+**UniBite** تطبيق موبايل لطلب الطعام داخل الحرم الجامعي، يعمل على Android وiOS وWeb.
+
+## التقنيات
+
+| التقنية | الغرض |
+|---------|-------|
+| Flutter | تطوير متعدد المنصات |
+| Dart | لغة البرمجة |
+| Firebase | قاعدة البيانات والمصادقة |
+
+## المنصات المدعومة
+
+- 📱 Android
+- 🍎 iOS
+- 🌐 Web
+- 🖥️ Desktop (Linux, macOS, Windows)
+
+## المميزات
+
+- 🛒 طلب طعام سهل وسريع
+- 🔐 تسجيل دخول آمن
+- ⚡ تحديث الطلبات في الوقت الفعلي
+
+---
+<div align="center"><sub>صُنع بـ ❤️ — UniBite Team</sub></div>
